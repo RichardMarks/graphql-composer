@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "types": ["node"]
+  },
+  "include": ["src/**/*.ts"]
+}
