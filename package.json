@@ -1,0 +1,11 @@
+{
+  "name": "graphql-composer",
+  "license": "MIT",
+  "main", "src/main.js",
+  "scripts": {
+    "build": "tsc",
+  },
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
